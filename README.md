@@ -57,3 +57,8 @@ Pallavi
 Skill Up Full Stack Web Development Learner
 
 ⭐ This project is created for learning and practice purposes as part of the GeeksforGeeks Skill Up program.
+## Screenshots
+
+<img width="1140" height="970" alt="image" src="https://github.com/user-attachments/assets/3b602e8e-931b-4358-b61b-97fd2a8a22d5" />
+
+
